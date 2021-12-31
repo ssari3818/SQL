@@ -1,0 +1,2 @@
+# SQL
+ders notları
